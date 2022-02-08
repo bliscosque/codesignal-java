@@ -17,7 +17,6 @@ public class Minesweeper {
 				}
 				r[i][j]=l;
 			}
-
 		}
 
 		return r;
